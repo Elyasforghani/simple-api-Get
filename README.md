@@ -33,9 +33,9 @@ Built using a modern utility-first styling workflow and accelerated with sequenc
 
 ### 🏗️ Core Architecture Breakdown
 
-* **`index.html`**[cite: 1]
-  * Establishes layout shells utilizing class-based dark modes[cite: 1].
-  * Houses search inputs, grid containers (`#product-grid`), and isolated action components natively optimized for Tailwind’s compilation[cite: 1].
+* **`index.html`**
+  * Establishes layout shells utilizing class-based dark modes.
+  * Houses search inputs, grid containers (`#product-grid`), and isolated action components natively optimized for Tailwind’s compilation.
 * **`js/master.js`**
   * **Initialization Logic:** Detects the operational platform's styling profile before first paint to enforce theme persistence.
   * **GSAP Timelines:** Sequences header and interface fades linearly using precise time offsets (`-=0.2`).
@@ -48,8 +48,8 @@ Built using a modern utility-first styling workflow and accelerated with sequenc
 To launch and modify the project locally:
 
 1. Clone or download the repository files.
-2. Ensure you maintain the file structure, specifically nesting your JavaScript engine logic within a `js/` directory named `master.js` (or adjust the script target path in `index.html`)[cite: 1].
-3. Open `index.html` inside any modern web browser or run it through a local development server extension (e.g., Live Server)[cite: 1].
+2. Ensure you maintain the file structure, specifically nesting your JavaScript engine logic within a `js/` directory named `master.js` (or adjust the script target path in `index.html`).
+3. Open `index.html` inside any modern web browser or run it through a local development server extension (e.g., Live Server).
 
 ---
 
