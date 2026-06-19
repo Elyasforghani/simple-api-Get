@@ -26,15 +26,6 @@ Built using a modern utility-first styling workflow and accelerated with sequenc
 
 ---
 
-## 📂 File Architecture
-
-The engine splits structural UI and logic modules to maintain clean design segregation:
-
-```text
-├── index.html        # Semantic layout structure & modern typography foundations
-└── js/
-    └── master.js     # Asynchronous lifecycle hooks, theme handlers, & GSAP pipelines
-
 ### 🏗️ Core Architecture Breakdown
 
 * **`index.html`**[cite: 1]
