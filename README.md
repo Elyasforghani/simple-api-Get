@@ -6,8 +6,9 @@ Built using a modern utility-first styling workflow and accelerated with sequenc
 
 🔗 **[Live Demo](https://elyasforghani.github.io/simple-api-Get/)**
 ---
-<img width="1562" height="763" alt="Image" src="https://github.com/user-attachments/assets/90de98d9-f22f-4f8a-999b-8796ab4c8934" />
 <img width="1568" height="750" alt="Image" src="https://github.com/user-attachments/assets/b0393cc1-8519-437a-90be-d34ca4b14a4f" />
+<img width="1562" height="763" alt="Image" src="https://github.com/user-attachments/assets/90de98d9-f22f-4f8a-999b-8796ab4c8934" />
+
 
 ## ✨ Key Features
 
